@@ -1,4 +1,4 @@
-# Fun-Examples-of-C-
+# Fun-Examples of C++
 Variety of C++ Program Examples I created
 
 Program 1 
